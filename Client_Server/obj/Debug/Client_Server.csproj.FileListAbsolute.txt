@@ -1,0 +1,10 @@
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\bin\Debug\Client_Server.exe.config
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\bin\Debug\Client_Server.exe
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\bin\Debug\Client_Server.pdb
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\bin\Debug\CS.dll
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\bin\Debug\CS.pdb
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\obj\Debug\Client_Server.csproj.AssemblyReference.cache
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\obj\Debug\Client_Server.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\obj\Debug\Client_S.15013BFA.Up2Date
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\obj\Debug\Client_Server.exe
+C:\Users\OMAR\source\repos\Client_Server\Client_Server\obj\Debug\Client_Server.pdb

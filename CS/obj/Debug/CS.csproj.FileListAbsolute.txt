@@ -1,0 +1,6 @@
+C:\Users\OMAR\source\repos\Client_Server\CS\bin\Debug\CS.dll
+C:\Users\OMAR\source\repos\Client_Server\CS\bin\Debug\CS.pdb
+C:\Users\OMAR\source\repos\Client_Server\CS\obj\Debug\CS.csproj.AssemblyReference.cache
+C:\Users\OMAR\source\repos\Client_Server\CS\obj\Debug\CS.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\Client_Server\CS\obj\Debug\CS.dll
+C:\Users\OMAR\source\repos\Client_Server\CS\obj\Debug\CS.pdb
