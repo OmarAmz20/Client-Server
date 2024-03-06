@@ -23,16 +23,20 @@ public class Server
 
         byte[] buffer = new byte[1024];
 
-        int bytesRead;
-
         TcpClient client = _listener.AcceptTcpClient();
         
-
         var Stream = client.GetStream();
 
-        int Read = Stream.Read(buffer,0,buffer.Length);
+        int read = Stream.Read(buffer, 0, buffer.Length);
 
-        var msg = Encoding.UTF8.GetString(buffer ,0 ,buffer.Length);
-        Console.WriteLine("Client : {0}", msg);
+        byte[] msg2 = Encoding.UTF8.GetBytes("Server send data");
+
+        Stream.Write(msg2, 0, msg2.Length);
+
+        var msg = Encoding.UTF8.GetString(buffer, 0, read);
+
+        Console.WriteLine("Client : " + msg);
+
+        client.Close();
     }
 }

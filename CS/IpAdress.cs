@@ -6,13 +6,20 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-    public class IpAdress
+    public class IP
     {
         public string GetIp()
     {
         var n = Dns.GetHostName();
-        var ip = Dns.GetHostByName(n).AddressList[0].ToString();
-        return ip;
+        var ipAll = Dns.GetHostByName(n).AddressList;
+        foreach (var ip in ipAll)
+        {
+            if (ip.AddressFamily == System.Net.Sockets.AddressFamily.InterNetwork)
+            {
+                return ip.ToString();
+            }
+        }
+        return null;
     }
     
     }
