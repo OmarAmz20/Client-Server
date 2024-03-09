@@ -6,14 +6,13 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-
+namespace CS { 
 public class Server
 {
     private TcpListener _listener;
 
-    public void Active(string ip)
+    public void Active(string ip,int port)
     {
-        var port = 8080;
 
         var hostAdress = IPAddress.Parse(ip);
 
@@ -29,7 +28,7 @@ public class Server
 
         int read = Stream.Read(buffer, 0, buffer.Length);
 
-        byte[] msg2 = Encoding.UTF8.GetBytes("Server send data");
+        byte[] msg2 = Encoding.UTF8.GetBytes("server send data");
 
         Stream.Write(msg2, 0, msg2.Length);
 
@@ -39,4 +38,5 @@ public class Server
 
         client.Close();
     }
+}
 }

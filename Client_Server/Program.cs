@@ -6,15 +6,14 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Client_Server
-{
+namespace CS { 
     internal class Program
     {
         static void Main(string[] args)
         {
             var server = new Server();
             var ipAdress = new IP();
-            server.Active(ipAdress.GetIp());
+            server.Active(ipAdress.GetIp(), 8080);
             Console.Read();
         }
     }

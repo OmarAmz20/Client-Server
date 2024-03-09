@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-
+namespace CS { 
     public class IP
     {
         public string GetIp()
@@ -24,3 +24,4 @@ using System.Threading.Tasks;
     
     }
 
+}

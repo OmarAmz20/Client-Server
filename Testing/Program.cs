@@ -10,9 +10,9 @@ namespace CS
     {
         static void Main(string[] args)
         {
-             Client client = new Client();
+            Client client = new Client();
              var ipAdress = new IP();
-            client.Active(ipAdress.GetIp());
+            client.Active(ipAdress.GetIp()); 
         }
     }
 }
