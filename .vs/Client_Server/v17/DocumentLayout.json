@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|c:\\users\\omar\\source\\repos\\client_server\\cs\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:cs\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|c:\\users\\omar\\source\\repos\\client_server\\cs\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:cs\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\cs\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:cs\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EF8572-6B11-48D6-BE30-C5471A27EEB7}|Client_Server\\Client_Server.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\Client_Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF8572-6B11-48D6-BE30-C5471A27EEB7}|Client_Server\\Client_Server.csproj|solutionrelative:Client_Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F30A3E56-FBC8-4008-BDE0-16565345B264}|Testing\\Testing.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30A3E56-FBC8-4008-BDE0-16565345B264}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:CS\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\cs\\ipadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:cs\\ipadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F30A3E56-FBC8-4008-BDE0-16565345B264}|Testing\\Testing.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\Testing\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30A3E56-FBC8-4008-BDE0-16565345B264}|Testing\\Testing.csproj|solutionrelative:Testing\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8EF8572-6B11-48D6-BE30-C5471A27EEB7}|Client_Server\\Client_Server.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\client_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8EF8572-6B11-48D6-BE30-C5471A27EEB7}|Client_Server\\Client_Server.csproj|solutionrelative:client_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:CS\\Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\IpAdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B601298-8C37-422D-B203-BED471576F5C}|CS\\CS.csproj|solutionrelative:CS\\IpAdress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IpAdress.cs",
-              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\IpAdress.cs",
-              "RelativeDocumentMoniker": "CS\\IpAdress.cs",
-              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\IpAdress.cs",
-              "RelativeToolTip": "CS\\IpAdress.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "DocumentIndex": 0,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Api.cs",
+              "RelativeDocumentMoniker": "CS\\Api.cs",
+              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Api.cs",
+              "RelativeToolTip": "CS\\Api.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T16:37:53.496Z",
+              "WhenOpened": "2024-03-09T15:18:10.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Client.cs",
-              "RelativeDocumentMoniker": "CS\\Client.cs",
-              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Client.cs",
-              "RelativeToolTip": "CS\\Client.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T16:37:52.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Server.cs",
-              "RelativeDocumentMoniker": "CS\\Server.cs",
-              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Server.cs",
-              "RelativeToolTip": "CS\\Server.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAxwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T11:34:22.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\Testing\\Program.cs",
-              "RelativeDocumentMoniker": "Testing\\Program.cs",
-              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\Testing\\Program.cs",
-              "RelativeToolTip": "Testing\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T18:32:17.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\Client_Server\\Program.cs",
               "RelativeDocumentMoniker": "Client_Server\\Program.cs",
               "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\Client_Server\\Program.cs",
               "RelativeToolTip": "Client_Server\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T11:21:30.955Z"
+              "WhenOpened": "2024-03-09T15:03:41.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Client.cs",
+              "RelativeDocumentMoniker": "CS\\Client.cs",
+              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Client.cs",
+              "RelativeToolTip": "CS\\Client.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:02:47.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Server.cs",
+              "RelativeDocumentMoniker": "CS\\Server.cs",
+              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\Server.cs",
+              "RelativeToolTip": "CS\\Server.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:02:43.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IpAdress.cs",
+              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\IpAdress.cs",
+              "RelativeDocumentMoniker": "CS\\IpAdress.cs",
+              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\CS\\IpAdress.cs",
+              "RelativeToolTip": "CS\\IpAdress.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:02:38.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\OMAR\\source\\repos\\Client_Server\\Testing\\Program.cs",
+              "RelativeToolTip": "Testing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:49:27.431Z"
             }
           ]
         }
